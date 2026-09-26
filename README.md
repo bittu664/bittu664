@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 **Building reliable cloud platforms. Sharing practical DevOps through [Devopsikho](https://devopsikho.com).**
 
 [![GitHub](https://img.shields.io/badge/GitHub-bittu664-0d1117?style=for-the-badge&logo=github)](https://github.com/bittu664)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bittu55512/)
+[![Email](https://img.shields.io/badge/Email-bittuthakur55512@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bittuthakur55512@gmail.com)
 [![Devopsikho](https://img.shields.io/badge/Devopsikho-Learn%20DevOps-176b87?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devopsikho.com)
 
 </div>
@@ -42,6 +44,11 @@ I also teach practical DevOps concepts and projects through **Devopsikho**.
 
 ## `$ ls technologies/`
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,nginx,mongodb,mysql,bash&perline=12" alt="Cloud and DevOps technologies" />
+</p>
+
+
 | Area | Tools and technologies |
 | --- | --- |
 | Cloud and infrastructure | AWS · Azure · Google Cloud · Terraform · Ansible · Linux |
@@ -52,8 +59,6 @@ I also teach practical DevOps concepts and projects through **Devopsikho**.
 | Automation | Bash · Python · Git |
 
 ## 🚀 Featured work
-
-> Add links to projects you own and can discuss in detail. Pin the same repositories on your GitHub profile.
 
 | Project to feature | What visitors should see |
 | --- | --- |
